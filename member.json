@@ -1,0 +1,17 @@
+{
+  "name": "proplayerssolutions",
+  "siteId": "614",
+  "widgetId": "1nW1OelFqiSHyGTY7hLqPafpv4uXDpyrl",
+  "wlmdBackendUrl": "",
+  "domain": "member.proplayerssolutions.com",
+  "apiPath": "/unified_proxy",
+  "websiteUrl": "https://proplayerssolutions.com/",
+  "logo": "/logo/proplayer_logo.png",
+  "favicon": "/logo/proplayerfavicon.ico",
+  "colors": {
+    "primary": "#0B1F3A",
+    "primaryHover": "#14305A",
+    "primaryLight": "#E8ECF2",
+    "primaryText": "#FFFFFF"
+  }
+}
